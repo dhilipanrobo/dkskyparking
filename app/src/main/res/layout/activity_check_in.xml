@@ -100,7 +100,7 @@
                             android:layout_above="@+id/button2"
                             android:layout_alignParentEnd="true"
                             android:dividerHeight="10dp"
-android:layout_marginTop="20dp"
+                            android:layout_marginTop="20dp"
                             android:layout_gravity="center"
 
                            app:layout_constraintHorizontal_bias="1.0"
